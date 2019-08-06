@@ -7,20 +7,20 @@ This was a learning experience for me, if you like this API star it :D
 
 ## Authentication
 1. 
-// @route  GET api/auth
-// @desc   Test route
-// @access Public
+@route  GET api/auth
+@desc   Test route
+@access Public
 
 2. 
-// @route  POST api/auth
-// @desc   Authenticate user and get token
-// @access Public
+@route  POST api/auth
+@desc   Authenticate user and get token
+@access Public
 
 ## Users
 1.
-// @route  POST api/users
-// @desc   Register user
-// @access Public
+@route  POST api/users
+@desc   Register user
+@access Public
 
 ## Profile
 1.
