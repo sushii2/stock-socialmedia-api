@@ -1,0 +1,5 @@
+{
+    "mongoURI": "process.env.mongoURI",
+    "jwtToken": "process.env.jwtToken",
+    "API_KEY": "process.env.API_KEY"
+}

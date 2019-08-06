@@ -1,0 +1,30 @@
+{
+  "name": "invenst",
+  "version": "1.0.0",
+  "description": "An all in one social media and  portfolio management tool for stocks and cryptocurrencies, to share portfolio, trading strategies, connecting with investors and trade stocks and cryptocurrencies. ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "server": "nodemon server"
+  },
+  "author": "Saksham Saraswat",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "bcryptjs": "^2.4.3",
+    "config": "^3.1.0",
+    "express": "^4.17.1",
+    "express-validator": "^5.3.1",
+    "gravatar": "^1.8.0",
+    "i": "^0.3.6",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.5.14",
+    "npm": "^6.9.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  },
+  "devDependencies": {
+    "concurrently": "^4.1.0",
+    "nodemon": "^1.19.1"
+  }
+}
