@@ -6,8 +6,7 @@ This was a learning experience for me, if you like this API star it :D
 # API Endoints
 
 ## Authentication
-1. 
-@route  GET api/auth
+1. @route  GET api/auth
 @desc   Test route
 @access Public
 
